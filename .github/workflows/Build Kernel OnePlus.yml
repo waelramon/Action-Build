@@ -6,7 +6,7 @@ on:
         type: choice
         description: "配置文件//Configuration file"
         required: true
-        default: realme_neo6_se_b
+        default: oneplus_nord_4_b
         options:
           - oneplus_nord_n30_se_5g_v
           - realme_neo6_se_b
